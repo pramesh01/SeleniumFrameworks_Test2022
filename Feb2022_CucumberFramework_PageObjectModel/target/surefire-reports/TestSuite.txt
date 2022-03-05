@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 14.886 s <<< FAILURE! - in TestSuite
+runner.MyRunner.runScenario  Time elapsed: 12.771 s  <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problem: 
+	app4 cannot be resolved
+
+
