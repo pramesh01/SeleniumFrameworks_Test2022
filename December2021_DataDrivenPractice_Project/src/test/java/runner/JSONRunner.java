@@ -74,7 +74,7 @@ String testdatajsonfile=System.getProperty("user.dir")+"//src//test//resources//
     				JSONArray parametervalues=(JSONArray)testcase.get("parametervalues");
     				JSONArray methods=(JSONArray)testcase.get("methods");
     				
-    				//System.out.println(tName+" -> "+executionname);
+    				System.out.println(tName+" -> "+executionname);
     			   //System.out.println(parameternames+"->"+parametervalues);
     				//System.out.println(methods);
     				
